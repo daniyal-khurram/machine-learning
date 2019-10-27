@@ -8,8 +8,8 @@ Required Files
 2. html_gen.py
 
 Packages
-PyTorch: v 1.3.0
-Torchvision: v 0.4.1
+1. PyTorch: v 1.3.0
+2. Torchvision: v 0.4.1
 
 Python Version
 3.7
